@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salonireddy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning html, css, js and dsa(java) 
+- 👀 I’m interested in Web Development and DSA
+- 🌱 I’m currently learning html, css, js, c++ and java 
 - 📫 How to reach me: Email me at rddy.saloni@gmail.com or reach out to me on instagram @salonireddy_
 
 <!---
